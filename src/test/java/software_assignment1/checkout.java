@@ -23,6 +23,7 @@ public class checkout {
 	private ArrayList<Products> products=new ArrayList<Products>();
 	private Products p;
 	
+	
 	@Given("the price of a {string} is {int}")
 	public void thePriceOfAIs(String string, Integer int1) {
 		for(Products pr:products) {

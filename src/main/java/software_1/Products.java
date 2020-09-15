@@ -3,6 +3,7 @@ package software_1;
 public class Products {
 	
 	    private String prod;
+	    
 	    private int price;
 	    
 	    public Products(){

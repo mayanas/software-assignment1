@@ -30,7 +30,7 @@ When I checkout 2 "banana"
 Then the total price should be 80
 
 
-Scenario: A banana and two apples and three oranges
+Scenario: a banana and two apples and three oranges
 Given the price of a "banana" is 40
 And the price of a "apple" is 25
 And the price of a "orange" is 20

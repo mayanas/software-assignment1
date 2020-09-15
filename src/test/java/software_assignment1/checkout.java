@@ -33,6 +33,7 @@ public class checkout {
 				break;
 			}
 		}
+		
 		if(flag==0) {
 		p=new Products();
 		p.setProd(string);
